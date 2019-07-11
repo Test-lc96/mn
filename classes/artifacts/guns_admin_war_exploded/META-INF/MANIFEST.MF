@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: guns-admin
+Implementation-Version: 1.0.0
+Built-By: LC
+Implementation-Vendor-Id: com.stylefeng
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_144
+Main-Class: ${start-class}
+
